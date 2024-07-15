@@ -22,7 +22,6 @@ const UserSchema = new Schema({
   },
   firstName: {
     type: String,
-    
   },
   lastName: {
     type: String,
