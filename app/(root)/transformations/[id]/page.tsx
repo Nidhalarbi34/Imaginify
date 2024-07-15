@@ -1,4 +1,3 @@
-import { auth } from "@clerk/nextjs";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -8,6 +7,7 @@ import { Button } from "@/components/ui/button";
 import { getImageById } from "@/lib/actions/image.actions";
 import { getImageSize } from "@/lib/utils";
 import { DeleteConfirmation } from "@/components/shared/DeleteConfirmation";
+import { auth } from "@clerk/nextjs/server";
 
 const ImageDetails = async ({ params: { id } }: SearchParamProps) => {
   const { userId } = auth();
