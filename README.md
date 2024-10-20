@@ -13,6 +13,8 @@ Cloudinary
 Stripe
 Shadcn
 TailwindCSS
+
+
 🔋 Features
 👉 Authentication and Authorization: Secure user access with registration, login, and route protection.
 
