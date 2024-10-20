@@ -16,6 +16,8 @@ TailwindCSS
 
 
 🔋 Features
+
+
 👉 Authentication and Authorization: Secure user access with registration, login, and route protection.
 
 👉 Community Image Showcase: Explore user transformations with easy navigation using pagination
@@ -46,8 +48,8 @@ TailwindCSS
 
 👉 Responsive UI/UX: A seamless experience across devices with a user-friendly interface
 
-and many more, including code architecture and reusability
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
 
 ## Getting Started
 
